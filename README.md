@@ -28,3 +28,4 @@ Please write your favorite one!
 3. black Jack
 4. Blade Ronde (Domina Games)
 5. Daihugou
+6. Rummikub
