@@ -29,6 +29,6 @@ Please write your favorite one!
 4. Blade Ronde (Domina Games)
 5. Daihugou
 6. Rummikub
-７. Geister
-８. Dominion
+7. Geister
+8. Dominion
 9. Catan
