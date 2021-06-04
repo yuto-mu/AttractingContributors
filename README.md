@@ -31,3 +31,4 @@ Please write your favorite one!
 6. Rummikub
 ７. Geister
 ８. Dominion
+9. Catan
