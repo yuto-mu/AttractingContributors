@@ -32,3 +32,4 @@ Please write your favorite one!
 7. Geister
 8. Dominion
 9. Catan
+10. Avalon
