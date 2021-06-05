@@ -33,3 +33,4 @@ Please write your favorite one!
 8. Dominion
 9. Catan
 10. Risk
+11. Avalon
