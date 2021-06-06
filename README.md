@@ -34,3 +34,4 @@ Please write your favorite one!
 9. Catan
 10. Risk
 11. Avalon
+12. Chess
