@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Pocket Monster
 ・Gardevoir  
 ・Rayquaza
+・Charizard
