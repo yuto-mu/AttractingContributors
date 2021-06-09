@@ -21,5 +21,6 @@ To complete the assignment, please do the following:
 2. LeBron James
 3. Sugimoto Yuichiro @ 99 ORIX Buffaloes
 4. Yusuke Oyama(Hanshin)
+5. Tomoya Mori @SEIBU Lions
 
 ---
