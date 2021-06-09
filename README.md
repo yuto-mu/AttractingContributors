@@ -20,6 +20,7 @@ To complete the assignment, please do the following:
 1. Hideki Mathui
 2. LeBron James
 3. Sugimoto Yuichiro @ 99 ORIX Buffaloes
-4. Tomoya Mori @SEIBU Lions
+4. Yusuke Oyama(Hanshin)
+5. Tomoya Mori @SEIBU Lions
 
 ---
