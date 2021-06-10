@@ -28,3 +28,4 @@ Goal - I want to know your favorite sports.
 3. handball
 4. swim 
 5. archery
+6. tennis
