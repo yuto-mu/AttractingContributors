@@ -23,5 +23,6 @@ To complete the assignment, please do the following:
 4. Yusuke Oyama(Hanshin)
 5. Tomoya Mori @SEIBU Lions
 6. Keisuke Honda
+7. Javier "Chicharito" Hernández
 
 ---
