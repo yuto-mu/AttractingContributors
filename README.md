@@ -26,5 +26,6 @@ To complete the assignment, please do the following:
 7. Lionel Andrés Messi Cuccittini
 8. Keisuke Honda
 9. Javier "Chicharito" Hernández
+10. Shohei Otani
 
 ---
