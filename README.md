@@ -25,3 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. Golf
 3. Martial Arts (self-defense)
 4. Ekiden
+5. Karate
