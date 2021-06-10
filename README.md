@@ -23,9 +23,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # My Project(Favorite Sports)
 Goal - I want to know your favorite sports.
 # List of Sports
-1.walk
-2.run
-3.handball
-4.swim 
-5.archery
-
+1. walk
+2. run
+3. handball
+4. swim 
+5. archery
