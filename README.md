@@ -27,5 +27,8 @@ To complete the assignment, please do the following:
 8. Keisuke Honda
 9. Javier "Chicharito" Hernández
 10. Shuzo Matsuoka
+11. Shohei Otani
+12. Usain St. Leo Bolt
+13. Ichiro Suzuki
 
 ---
