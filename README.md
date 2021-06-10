@@ -22,8 +22,9 @@ To complete the assignment, please do the following:
 3. Sugimoto Yuichiro @ 99 ORIX Buffaloes
 4. Yusuke Oyama(Hanshin)
 5. Tomoya Mori @SEIBU Lions
-6. Lionel Andrés Messi Cuccittini
-7. Keisuke Honda
-8. Javier "Chicharito" Hernández
+6. Kei Nishikori
+7. Lionel Andrés Messi Cuccittini
+8. Keisuke Honda
+9. Javier "Chicharito" Hernández
 
 ---
