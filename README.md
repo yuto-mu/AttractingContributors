@@ -27,3 +27,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. Ekiden
 5. Karate
 6. handball
+7. Baseball
