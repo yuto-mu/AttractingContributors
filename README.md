@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. Martial Arts (self-defense)
 4. Ekiden
 5. Karate
+6. handball
