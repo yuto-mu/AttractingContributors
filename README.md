@@ -23,4 +23,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Sports
 1. Sumo
 2. Golf
-3. Baseball
+3. Martial Arts (self-defense)
+4. Ekiden
+5. Karate
+6. handball
+7. Baseball
