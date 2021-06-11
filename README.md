@@ -30,3 +30,4 @@ Goal - I want to know your favorite sports.
 5. archery
 6. tennis
 7. cycling
+8. badminton
