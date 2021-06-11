@@ -30,5 +30,5 @@ Goal - I want to know your favorite sports.
 5. archery
 6. tennis
 7. Ekiden
-8. Javelin　throw
+8. Javelin throw
 9. badminton
