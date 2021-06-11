@@ -29,5 +29,6 @@ Goal - I want to know your favorite sports.
 4. swim 
 5. archery
 6. tennis
-7. Javelin　throw
-8. badminton
+7. Ekiden
+8. Javelin　throw
+9. badminton
