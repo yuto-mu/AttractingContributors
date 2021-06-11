@@ -30,5 +30,6 @@ To complete the assignment, please do the following:
 11. Shohei Otani
 12. Usain St. Leo Bolt
 13. Ichiro Suzuki
+14. Kohei Uchimura
 
 ---
