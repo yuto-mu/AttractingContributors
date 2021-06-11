@@ -16,6 +16,7 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 
+
 # List of Athlete
 1. Hideki Mathui
 2. LeBron James
@@ -31,5 +32,7 @@ To complete the assignment, please do the following:
 12. Usain St. Leo Bolt
 13. Ichiro Suzuki
 14. Kohei Uchimura
+15. Shintaro Fujinami (Hanshin)
 
 ---
+
