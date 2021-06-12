@@ -32,7 +32,9 @@ Goal - I want to know your favorite sports.
 7. Ekiden
 8. Javelin throw
 9. badminton
-10. sleeping
-11. Icehockey
-12. soccer
-
+10. Icehockey
+11. soccer
+12. Judo
+13. sleeping
+14. Icehockey
+15. soccer
