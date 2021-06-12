@@ -32,7 +32,8 @@ To complete the assignment, please do the following:
 12. Usain St. Leo Bolt
 13. Ichiro Suzuki
 14. Kohei Uchimura
-15. Shintaro Fujinami (Hanshin)
+15. Kei NISHIKORI
+16. Shintaro Fujinami (Hanshin)
 
 ---
 
