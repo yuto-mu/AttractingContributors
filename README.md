@@ -20,20 +20,10 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Pocket Monster
-・Charizard  
-・Pikachu  
-・Starmie  
-・Hoothoot  
-・Scizor  
-・Gardevoir  
-・Milotic  
-・Rayquaza  
-・Rayquaza  
-・Rayquaza   
-・Jirachi（ジラーチ）  
-・Torterra  
-・Giratina  
-・Marshadow  
+
+# List of Hobby
+1. Atack on Titan
+2. Ghost in the shell
+3. Violet Evergarden 
 
 
