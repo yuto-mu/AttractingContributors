@@ -19,7 +19,18 @@ To complete the assignment, please do the following:
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-# List of Hobby
-・Splendor
 
+# List of Sports
+1. Sumo
+2. Golf
+3. Martial Arts (self-defense)
+4. Ekiden
+5. Karate
+6. handball
+7. Baseball
+8. American football
+9. Kabaddi
+10. table tennis
+11. Kabaddi  
+12. Bouldering
 
