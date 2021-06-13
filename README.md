@@ -16,11 +16,14 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Anime-collection)
-Goal - I want contributors to help me list some favorite Japanese Anime.
+Goal - I want contributors to help me list some favorite pokemon.
 
 # List of Anime.
-1. Naruto
-2. One Piece
-3. Humanity has declined
-4. JoJo's Bizarre Adventure
-5. Dragon Ball Z
+1. Pikachu
+2. Simisear
+3. Grimer
+4. Koffing
+5. Muk
+6. Jynx
+7. Gloom
+8. Weezing
