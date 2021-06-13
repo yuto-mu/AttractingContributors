@@ -18,6 +18,13 @@ To complete the assignment, please do the following:
 # My Project (Anime-collection)
 Goal - I want contributors to help me list some favorite Japanese Anime.
 
-# List of Anime.
-1. Naruto
-2. One Piece
+# List of Pokemon.
+1. Pikachu
+2. Simisear
+3. Grimer
+4. Koffing
+5. Muk
+6. Jynx
+7. Gloom
+8. Weezing  
+9. Gardevoir 
