@@ -19,8 +19,7 @@ To complete the assignment, please do the following:
 https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Athlete
-・Mihou Nonaka
+# List of Hobby
+・Splendor
 
 
