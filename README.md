@@ -18,6 +18,24 @@ To complete the assignment, please do the following:
 # My Project (Anime-collection)
 Goal - I want contributors to help me list some favorite Japanese Anime.
 
-# List of Anime.
-1. Naruto
-2. One Piece
+
+
+# My Project(Favorite Sports)
+Goal - I want to know your favorite sports.
+# List of Sports
+1. walk
+2. run
+3. handball
+4. swim 
+5. archery
+6. tennis
+7. Ekiden
+8. Javelin throw
+9. badminton
+10. Icehockey
+11. soccer
+12. Judo
+13. sleeping
+14. Icehockey
+15. soccer  
+16. bouldering
