@@ -18,7 +18,7 @@ To complete the assignment, please do the following:
 # My Project (Pokemone-collection)
 Goal - I want contributors to help me list some favorite pokemon.
 
-# List of Anime.
+# List of Pokemon.
 1. Pikachu
 2. Simisear
 3. Grimer
