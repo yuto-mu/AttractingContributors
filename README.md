@@ -15,11 +15,26 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My project
+Goal: Collecting eleven titles of nice board games (including my "Mahjong" ).
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+Any board game is welcome!(minor, major, interesting, expensive, etc...)
+
+Please write your favorite one!
+
 # List of Hobby
-・Splendor
-
-
+1. Mahjong
+2. Poker
+3. black Jack
+4. Blade Ronde (Domina Games)
+5. Daihugou
+6. Rummikub
+7. Geister
+8. Dominion
+9. Catan
+10. Risk
+11. Avalon
+12. Chess
+13. ICECOOL
+14. Century:Spice Road
+1. Splendor
