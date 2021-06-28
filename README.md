@@ -1,4 +1,4 @@
-# Attracting Contributors
+# Attracting Contributors-Athlete
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -15,12 +15,27 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Athlete
-・Mihou Nonaka
+1. Hideki Mathui
+2. LeBron James
+3. Sugimoto Yuichiro @ 99 ORIX Buffaloes
+4. Yusuke Oyama(Hanshin)
+5. Tomoya Mori @SEIBU Lions
+6. Kei Nishikori
+7. Lionel Andrés Messi Cuccittini
+8. Keisuke Honda
+9. Javier "Chicharito" Hernández
+10. Shuzo Matsuoka
+11. Shohei Otani
+12. Usain St. Leo Bolt
+13. Ichiro Suzuki
+14. Kohei Uchimura
+15. Kei NISHIKORI
+16. Shintaro Fujinami (Hanshin)
+17. Yuki saito
+18. shohe otani
+１９. Mihou Nonaka
 
 
